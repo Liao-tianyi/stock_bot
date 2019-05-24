@@ -1,6 +1,9 @@
 # stock_robot
 Demo
 ----
+
+![iamge](https://github.com/Liao-tianyi/stock_bot/blob/master/lty_bot/stock_bot.gif)
+
 Configuration Instructions
 ----
 
